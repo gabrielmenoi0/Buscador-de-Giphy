@@ -1,4 +1,4 @@
-package br.com.ciolfi.buscador_gifs;
+package br.com.menoi.buscador_gifs;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
