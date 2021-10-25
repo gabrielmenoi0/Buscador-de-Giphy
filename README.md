@@ -1,4 +1,4 @@
-# Buscador Gifs
+# Buscador de Gifs
 
 A new Flutter application.
 
