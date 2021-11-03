@@ -1,16 +1,5 @@
 # Buscador de Gifs
 
-A new Flutter application.
+Bem vindos!! Este é meu terceiro projeto de Flutter 😄.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Fiz esse aplicativo acompanhando as aulas do Daniel Ciolfi na plataforma de Cursos online Udemy. Este aplicativo tem a finalidade de buscar Gifs, utilizando a API da plataforma https://giphy.com, a aplicação mostra no inicio os Trends Topics, tambem é possivel buscar as Gifs no campo de busca acima, podemos compartilhar uma gif, pressionado-a ou clicando no botão de Compartilhar. Este aplicaçãoo foi construido a fins de aprendizagem.
